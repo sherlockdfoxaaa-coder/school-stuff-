@@ -1,0 +1,4 @@
+print("hello world")
+print("have a nice day")
+name =input("whats your name?")
+print("hi", name)
