@@ -2,3 +2,9 @@ print("hello world")
 print("have a nice day")
 name =input("whats your name?")
 print("hi", name)
+
+import tts
+tts.say('Bro what is your name?')
+name =input("What is your name?")
+print('hi', name)
+tts.say('hi', name)
