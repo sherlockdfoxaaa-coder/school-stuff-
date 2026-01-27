@@ -1,0 +1,25 @@
+#mission 2.1
+
+len = 19
+area = len*len
+print(area)
+
+
+#mission 2.2
+pi = 3.14159
+r = 8
+perimeter = 2*pi*r
+print(perimeter)
+
+#mission 2.3
+upper_base = 26
+lower_base = 31
+height = 23
+area = (upper_base+lower_base)*height/2
+print(area)
+
+#mission 2.4
+pi = 3.14159
+r = 4
+volume = 4/3*(pi)*r*r*r
+print(volume)
