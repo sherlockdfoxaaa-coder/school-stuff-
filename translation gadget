@@ -1,0 +1,5 @@
+import cloudtranslation
+text = input("Please input your text here: ")
+lang = input("What kind of language you wanna translate?: ") #useless
+cloudtranslation.translate(text, "ar")
+#cloudtranslation.list_languages()
